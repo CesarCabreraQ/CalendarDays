@@ -1,0 +1,4 @@
+td.highlight > a {
+    background: orange!important;
+    color: black!important;
+}
