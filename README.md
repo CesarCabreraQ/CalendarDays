@@ -1,2 +1,2 @@
 # CalendarDays
-Programming Exercice
+Programming Exercice :)
